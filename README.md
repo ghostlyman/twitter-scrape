@@ -2,6 +2,11 @@
 
 Scrape tweets from twitter into a DB.  Convert the DB to a CSV file.
 
+## Pre-Installation on Mac
+
+* `brew install postgresql`
+
+
 ## Installation
 
 * `pip install -r requirements.txt`
